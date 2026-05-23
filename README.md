@@ -44,10 +44,6 @@ Building production-ready AI projects and deploying ML models as real applicatio
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadamawoud70&show_icons=true&hide_title=true)
-
----
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/nadamawoud  
