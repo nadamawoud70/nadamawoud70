@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Nada 👋
 
-<!--
-**nadamawoud70/nadamawoud70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+🤖 Aspiring AI Engineer  
+⚙️ Backend & API Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- Passionate about Machine Learning & AI
+- Interested in Backend Development (FastAPI / Flask)
+- Exploring Cloud & Deployment
+
+---
+
+## 🛠 Tech Stack
+- Python
+- Machine Learning
+- FastAPI / Flask
+- SQL
+- Git & GitHub
+
+---
+
+## 🚀 Current Focus
+Building real-world AI projects and deploying ML models
+
+---
+
+## 📌 Featured Projects
+- Diabetes Prediction System
+- ML Classification Projects
+- REST API Projects
+
+---
+
+## 📫 Connect with me
+LinkedIn: your-link  
+Email: your-email
